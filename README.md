@@ -4,3 +4,4 @@ ni
 san
 shi
 gou
+rougou
