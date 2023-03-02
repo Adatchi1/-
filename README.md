@@ -2,3 +2,4 @@
 ichi
 ni
 san
+shi
